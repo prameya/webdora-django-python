@@ -56,7 +56,7 @@ brew upgrade
 
 Django is NOT included with `homebrew`. Therefore, we will use `pip` -- Python's package manager.   
 
-> Depending on your setup, you might have multiple versions of `pip` installed. For example I have:
+Depending on your setup, you might have multiple versions of `pip` installed. I have:
 
 ```sh
 $ pip --version
