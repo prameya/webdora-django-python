@@ -84,7 +84,44 @@ THIS SECTION IS NOT COMPLETE.
 
 Below I will outline how I created this project. I will cite sources and document my process for anyone that might be interested.
 
-THIS SECTION IS NOT COMPLETE.
+THIS SECTION IS NOT COMPLETE.     
+_Unformatted dev notes -- will format this later._
+
+#### Create a Django project
+Use `django-admin.py startproject <project-name>` to initialize project:
+
+```
+django-admin.py startproject webdoraweb
+```
+
+#### Django and MVC
+You are probably already familiar with the Model View Controller (MVC) framework. My understanding is that Django is pretty similar to MVC. **I will need to study the two architectures in more detail before I can extend this section.**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Deployment notes
 
