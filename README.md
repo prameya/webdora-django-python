@@ -1,14 +1,12 @@
 # Getting started with Python web development:
 ### Creating a portfolio/blog using Django web framework
 
-```
-I want to create my website using the Django web framework for Python. I will use this repository to document my process and share my code.
-```
+I want to create my website using the Django web framework for Python. I will use this repository to document my process and share my code.     
 
-> Introduction and summary information should be included here. More description about this project should be inserted here. THIS README IS NOT COMPLETE.
+> Summary information and description about this project should be inserted here. THIS README IS NOT COMPLETE.
 
 **Goal:**
-To create a python/django powered website capable of serving as my portfolio and blog. I will attempt to use binary (text) files on the local filesystem as the content repository (instead of using a traditional relational database like MySQL or MariaDB).
+`To create a python/django powered website capable of serving as my portfolio and blog. I will attempt to use binary (text) files on the local filesystem as the content repository (instead of using a traditional relational database like MySQL or MariaDB).`
 
 ---
 
@@ -31,11 +29,11 @@ There are no quick start yet. This project is too early in it's lifecycle.
 
 ## Prerequisites
 
-You should have Python and Django installed on your development machine.
+You should have `Python` and  `Django` installed on your development machine.
 
-I prefer to use the `brew install <package>` to install and maintain most components on my development environment. `brew` is short for Homebrew, a package manager for Mac OS X (similar to `yum` or `apt-get` on UNIX systems).
+I prefer to use the `brew install <package-name>` to install and maintain most components on my mac development environment. `brew` is short for `Homebrew`, a package manager for `Mac OS X` (similar to `yum` or `apt-get` on UNIX systems).
 
-Follow the steps below (if relevant) to prepare your machine:
+Prepare your machine for development:
 
 ### Install XCode CLI tools
 
@@ -79,19 +77,19 @@ $ pip3 --version
 pip 10.0.1 from /usr/local/lib/python3.6/site-packages/pip (python 3.6)
 ```
 
-We will use `pip2` to install Django for `python v2.7`:
+Let's use `pip2` to install Django for `python v2.7`:
 
 ```sh
-
 pip2 install django
-
 ```
 
 THIS SECTION IS NOT COMPLETE.
 
 ## How I did it
 
-Below I will outline how I created this project. I will cite sources and document my process for anyone that might be interested. THIS SECTION IS NOT COMPLETE.
+Below I will outline how I created this project. I will cite sources and document my process for anyone that might be interested.
+
+THIS SECTION IS NOT COMPLETE.
 
 ## Deployment notes
 
