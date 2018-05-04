@@ -1,17 +1,14 @@
 # Getting started with Python web development:
-### Creating a portfolio/blog using Django web framework
+### Creating a Django powered portfolio/blog using local filesystem (binary/text/blob) as content repository (not using RDB like MySQL or MariaDB).
 
-I want to create my website using the Django web framework for Python. I will use this repository to document my process and share my code.
-
-#### Goal:
-`To create a python/django powered website capable of serving as my portfolio and blog. I will attempt to use binary (text) files on the local filesystem as the content repository (instead of using a traditional relational database like MySQL or MariaDB).`
+I will use this repository to document my process and share my code.
 
 #### Assumptions
 ```
 This project assumes you are using a Mac OS X system with root/admin privileges.     
 ```
 
-#### Package Versions:
+#### Package Versions
 > Python: 2.7     
 > Django: 1.11.13     
 > pytz: 2018.3     
@@ -88,7 +85,7 @@ THIS SECTION IS NOT COMPLETE.
 _Unformatted dev notes -- will format this later._
 
 #### Create a Django project
-Use `django-admin.py startproject <project-name>` to initialize project:
+Use `django-admin.py startproject` to initialize the project:
 
 ```
 django-admin.py startproject webdoraweb
