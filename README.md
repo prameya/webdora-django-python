@@ -1,31 +1,26 @@
 # Getting started with Python web development:
 ### Creating a portfolio/blog using Django web framework
 
-I want to create my website using the Django web framework for Python. I will use this repository to document my process and share my code.     
+I want to create my website using the Django web framework for Python. I will use this repository to document my process and share my code.
 
-> Summary information and description about this project should be inserted here. THIS README IS NOT COMPLETE.
-
-**Goal:**
+#### Goal:
 `To create a python/django powered website capable of serving as my portfolio and blog. I will attempt to use binary (text) files on the local filesystem as the content repository (instead of using a traditional relational database like MySQL or MariaDB).`
 
----
-
-### Assumptions
+#### Assumptions
 ```
-This project assumes you are using a Mac OS X system with root/admin privileges.
+This project assumes you are using a Mac OS X system with root/admin privileges.     
 ```
 
-### Note:
-**Dev component versions:**
-> Python: 2.7    
-> Django: 1.11.13    
-> pytz: 2018.3    
+#### Package Versions:
+> Python: 2.7     
+> Django: 1.11.13     
+> pytz: 2018.3     
 
 ---
 
 ## Quick start
 
-There are no quick start yet. This project is too early in it's lifecycle.
+This project is too early in it's lifecycle. There is no quick start yet.
 
 ## Prerequisites
 
