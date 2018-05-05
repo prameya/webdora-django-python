@@ -52,7 +52,7 @@ brew upgrade
 
 Make sure you have python 2.7 installed. Use `python -V` to check. To install python:
 
-```
+```sh
 brew install python@2
 ```
 
@@ -94,12 +94,12 @@ _Unformatted dev notes -- will format this later._
 #### Create Django project
 Use `django-admin.py startproject` to initialize the project:
 
-```
+```sh
 django-admin.py startproject webdoraweb
 ```
 
 #### Initialize blog app
-```
+```sh
 python manage.py startapp blog
 ```
 
