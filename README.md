@@ -41,15 +41,19 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 
 To make sure brew was installed use `brew --version`. To be safe, let's run `brew doctor`.
 
-### Verify Python installation
-
-Make sure you have python 2.7 installed. Use `python -V` to check.
-
 ### Brew update and clean up
 
 ```sh
 brew update
 brew upgrade
+```
+
+### Verify Python installation
+
+Make sure you have python 2.7 installed. Use `python -V` to check. To install python:
+
+```
+brew install python@2
 ```
 
 ### Install Django web framework
