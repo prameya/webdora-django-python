@@ -55,7 +55,7 @@ brew upgrade
 
 Make sure you have python 2.7 installed. Use `python -V` to check. To install python:
 
-```bash
+```sh
 brew install python@2
 ```
 
@@ -134,6 +134,7 @@ Running migrations:
   Applying auth.0007_alter_validators_add_error_messages... OK
   Applying auth.0008_alter_user_username_max_length... OK
   Applying sessions.0001_initial... OK
+
 $ python manage.py migrate
 Operations to perform:
   Apply all migrations: admin, auth, contenttypes, sessions
@@ -159,26 +160,8 @@ Quit the server with CONTROL-C.
 [07/May/2018 12:00:59] "GET / HTTP/1.1" 200 1716
 Not Found: /favicon.ico
 [07/May/2018 12:00:59] "GET /favicon.ico HTTP/1.1" 404 1966
+...
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -189,7 +172,7 @@ Not Found: /favicon.ico
 
 ## Deployment notes
 
-```
+```sh
 This project is NOT deployment ready. Currently under active development.
 ```
 
