@@ -4,13 +4,13 @@
 
 I will use this repository to document my process and share my code.
 
-### Assumptions
+#### Assumptions
 
 ```sh
 This project assumes you are using a Mac OS X system with root/admin privileges.
 ```
 
-### Package Versions
+#### Package Versions
 
 > Python: 2.7  
 > Django: 1.11.13  
@@ -61,7 +61,7 @@ brew install python@2
 
 ### Install Django web framework
 
-Django is NOT included with `homebrew`. Therefore, we will use `pip` -- Python's package manager.   
+Django is NOT included with `homebrew`. Therefore, we will use `pip` -- Python's package manager.
 
 Depending on your setup, you might have multiple versions of `pip` installed. I have:
 
@@ -160,15 +160,8 @@ Quit the server with CONTROL-C.
 [07/May/2018 12:00:59] "GET / HTTP/1.1" 200 1716
 Not Found: /favicon.ico
 [07/May/2018 12:00:59] "GET /favicon.ico HTTP/1.1" 404 1966
-...
+
 ```
-
-
-
-
-
-
-
 
 ## Deployment notes
 
