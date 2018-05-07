@@ -23,7 +23,7 @@ This project is too early in it's lifecycle. There is no quick start yet.
 
 You should have `Python` and  `Django` installed on your development machine.
 
-I prefer to use the `brew install <package-name>` to install and maintain most components on my mac development environment. `brew` is short for `Homebrew`, a package manager for `Mac OS X` (similar to `yum` or `apt-get` on UNIX systems).
+I prefer to use the `brew install <package-name>` command to install and maintain most components on my mac development environment. `brew` is short for `Homebrew`, a package manager for `Mac OS X` (similar to `yum` or `apt-get` on UNIX systems).
 
 Prepare your machine for development:
 
