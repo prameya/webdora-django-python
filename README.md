@@ -163,6 +163,12 @@ Not Found: /favicon.ico
 
 ```
 
+### Verify migrations again
+
+```sh
+python manage.py migrate
+```
+
 ## Deployment notes
 
 ```sh
