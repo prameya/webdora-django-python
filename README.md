@@ -139,4 +139,5 @@ THIS SECTION IS NOT COMPLETE.
 
 **Some resources I used:**
 * https://github.com/prameya/webdora-d8
+* https://docs.djangoproject.com/en/1.7/intro/tutorial01/
 * https://code.tutsplus.com/articles/python-from-scratch-create-a-dynamic-website--net-22787
