@@ -1,8 +1,10 @@
 # Getting started with Python web development -
 
-### Creating a Django powered portfolio/blog using local filesystem (SQLite) as content repository (not RDB like MySQL/MariaDB)
+## Creating a Django powered portfolio/blog using local filesystem (SQLite) as content repository
 
 I will use this repository to document my process and share my code.
+
+Creating a Django powered portfolio/blog using local filesystem (SQLite) as content repository (not RDB like MySQL/MariaDB).
 
 #### Assumptions
 
